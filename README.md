@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 🎓 **Education** 
    
  - B.S in Electronic Engineering, Seoul National University of Science and Technology (2015~2021)
+ - H-Mobility-Class, Hyundai Motors(2023.06 ~ 2024.01)
+ - 
 
-🌱 **Research Area** 
 
-😄 **Awards**
+🌱 **Project & Demo** 
+ - [Development Linux Device Driver Project]([https://github.com/](https://github.com/dlgus8648/Linux_device_driver))
+ - [Implement TCP/IP Stack in C Project](https://github.com/dlgus8648/TCP-IP_stack_practice)
+
+
+
 
 
