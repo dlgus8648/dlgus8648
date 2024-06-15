@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    
  - B.S in Electronic Engineering, Seoul National University of Science and Technology (2015~2021)
  - H-Mobility-Class, Hyundai Motors(2023.06 ~ 2024.01)
- - 
+ - Semicon_Academy, Harman(2023.06 ~ 2024.01)
 
 
 🌱 **Project & Demo** 
