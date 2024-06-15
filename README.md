@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 🌱 **Project & Demo** 
- - [Development Linux Device Driver Project]([https://github.com/](https://github.com/dlgus8648/Linux_device_driver))
+ - [Development Linux Device Driver Project](https://github.com/dlgus8648/Linux_device_driver)
  - [Implement TCP/IP Stack in C Project](https://github.com/dlgus8648/TCP-IP_stack_practice)
 
 
