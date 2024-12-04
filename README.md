@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🌱 **Project & Demo** 
  - [Development Linux Device Driver Project](https://github.com/dlgus8648/Linux_device_driver)
- - [BareMetal C Programming](https://github.com/dlgus8648/BareMetal_Programing)
+ - [BareMetal C Programming](https://github.com/dlgus8648/BareMetal_Programming)
  - [Zephyr RTOS Programming](https://github.com/dlgus8648/KIMs_Zephyr)
  - [Implement TCP/IP Stack in C Project](https://github.com/dlgus8648/TCP-IP_stack_practice)
 
