@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  - H-Mobility-Class, Hyundai Motors(2023.06 ~ 2024.01)
  - Semicon_Academy, Harman(2023.06 ~ 2024.01)
 
-
+---
 ### 🌱 **AI Image & Video Processing** 
 - Gstreamer 
 - 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### 🌱 **RTL Engineer**
 - FPGA Verilog
 - FPGA HLS C 
-
+---
 
 
 
