@@ -23,11 +23,20 @@ Here are some ideas to get you started:
  - Semicon_Academy, Harman(2023.06 ~ 2024.01)
 
 
-🌱 **Project & Demo** 
- - [Development Linux Device Driver Project](https://github.com/dlgus8648/Linux_device_driver)
- - [BareMetal C Programming](https://github.com/dlgus8648/BareMetal_Programming)
- - [Zephyr RTOS Programming](https://github.com/dlgus8648/KIMs_Zephyr)
- - [Implement TCP/IP Stack in C Project](https://github.com/dlgus8648/TCP-IP_stack_practice)
+### 🌱 **AI Image & Video Processing** 
+- Gstreamer 
+- 
+
+### 🌱 **Embedded Software**
+- BareMetal
+- Zephyr RTOS
+- QEMU & Yocto Prj
+- Android NDK
+
+### 🌱 **RTL Engineer**
+- FPGA Verilog
+- FPGA HLS C 
+
 
 
 
