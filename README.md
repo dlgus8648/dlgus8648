@@ -23,19 +23,19 @@ Here are some ideas to get you started:
  - Semicon_Academy, Harman(2023.06 ~ 2024.01)
 
 ---
-### 🌱 **AI Image & Video Processing** 
-- Gstreamer 
-- 
-
 ### 🌱 **Embedded Software**
-- BareMetal
-- Zephyr RTOS
-- QEMU & Yocto Prj
-- Android NDK
+- [1. Linux_Device_Driver](https://github.com/dlgus8648/Linux_device_driver)
+- [2. Yocto Project](https://github.com/topst-development/OSSCA-2025-3rd-Class-yocto)
+- [3. BareMetal]
+
+### 🌱 **AI Image & Video Processing** 
+- [1. GStreamer](https://github.com/dlgus8648/gstreamer101.github.io)
+
+
 
 ### 🌱 **RTL Engineer**
-- FPGA Verilog
-- FPGA HLS C 
+- FPGA IP Verilog
+- FPGA Zynq
 ---
 
 
