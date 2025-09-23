@@ -21,6 +21,10 @@ Here are some ideas to get you started:
  - B.S in Electronic Engineering, Seoul National University of Science and Technology (2015~2021)
  - H-Mobility-Class, Hyundai Motors(2023.06 ~ 2024.01)
  - Semicon_Academy, Harman(2023.06 ~ 2024.01)
+ - Open Source Academy, uftrace(2024.07 ~ 2024.11)
+ - Git & GStreamer (2025.05 ~ 2025.06)
+ - KAIST AI Track (2025.05 ~ 2025.08)
+ - Git & Yocto (2025.09 ~ ing)
 
 ---
 ### 🌱 **Embedded Software**
